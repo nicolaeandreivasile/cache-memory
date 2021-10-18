@@ -2,9 +2,9 @@
 
 ## Description
 This is a simulator of 3 types of Cache memory:
-- FIFO (first in, first out)
-- LRU (least recently used)
-- LFU (least frequently used).
+- **FIFO** - first in, first out
+- **LRU** - least recently used
+- **LFU** - least frequently used
 
 ####
 Each type of memory can store one or more subscriptions. There are 3 types of subscriptions:
