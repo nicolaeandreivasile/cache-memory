@@ -26,10 +26,10 @@ The program will run as following:
 
 ## Input
 The input file contains:
-- type of cache memory used -> 1st line
-- maximum space of given cache memory -> 2nd line
-- number of operations -> 3rd line
-- operations -> next lines
+- type of cache memory used (first line)
+- maximum space of given cache memory (second line)
+- number of operations (third line)
+- operations (the ohter lines)
 
 ## Output
 The output is redirected to the output file.
